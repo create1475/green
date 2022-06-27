@@ -30,6 +30,7 @@ public class study9 {
 		//t.channelDown();    ----------tv인스턴스의 메서드 channelDown()호출한다.
 		//system.out.println("현재 채널은 " + t.channel + "입니다."); 
 		
+		//클래스 작성 --객체생성 -- 객체사용 순이다.
 		
 		
 		
