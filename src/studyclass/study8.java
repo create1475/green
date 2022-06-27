@@ -13,7 +13,7 @@ public class study8 {
 		
 		};
 		
-		Scanner sc = new Scanner(System.in);//스캐너 입력문을 받는다 
+		Scanner sc = new Scanner(System.in);//스캐너 입력문을 받는다.
 		
 		for(int i = 0; i < words.length; i++) {
 			System.out.printf("Q%d. %s의 뜻은?" ,i+1 , words[i][0]);//프린트 f를 써서 q1번문제 에 1번 단어의 뜻을 찾는거다
